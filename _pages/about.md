@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Technology Management at the University of St. Gallen. I am affiliated with the Global Center for Entrepreneurship and Innovation (GCEI-HSG) and the Institute of Technology Management (ITEM-HSG) at the University of St. Gallen.
+About me
+======
+I am an Assistant Professor of Technology Management at the University of St. Gallen. I am affiliated with the [Global Center for Entrepreneurship and Innovation (GCEI-HSG)](https://gcei.unisg.ch/) and the [Institute of Technology Management (ITEM-HSG)](http://item.unisg.ch) at the [University of St. Gallen](http://www.unisg.ch).
 
 Emerging Technologies Lab
 ======
-The Emerging Technologies Lab is located at the Institute of Technology Management at the University of St. Gallen. Our focus is on examining and assessing new technologies, especially artificial intelligence and machine learning, with a particular emphasis on their impact on innovation, decision-making, business models, and business opportunities.
+I am the head of the Emerging Technologies Labat the Institute of Technology Management at the University of St. Gallen. Our focus is on examining and assessing new technologies, especially artificial intelligence and machine learning, with a particular emphasis on their impact on innovation, firm decision-making, business models, and business opportunities.
