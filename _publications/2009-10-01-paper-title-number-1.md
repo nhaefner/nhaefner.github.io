@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Artificial intelligence and innovation management: A review, framework, and research agenda"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://doi.org/10.1016/j.techfore.2020.120392
+excerpt: 'Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process. In response, we review and explore the implications for future innovation management. Using ideas from the Carnegie School and the behavioral theory of the firm, we review the implications for innovation management of AI technologies and machine learning-based AI systems. We outline a framework showing the extent to which AI can replace humans and explain what is important to consider in making the transformation to the digital organization of innovation. We conclude our study by exploring directions for future research.'
+date: 2021-01-01
+venue: 'Technological Forecasting and Social Change'
+paperurl: 'https://doi.org/10.1016/j.techfore.2020.120392'
+citation: 'Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). &quot;Artificial intelligence and innovation management: A review, framework, and research agenda.&quot; <i>Technological Forecasting and Social Change</i>. 162(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.techfore.2020.120392)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). "Artificial intelligence and innovation management: A review, framework, and research agenda." <i>Technological Forecasting and Social Change</i>. 162(1).
