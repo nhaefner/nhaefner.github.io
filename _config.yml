@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Innovation and Technology Management Scholar"
   location         : "Switzerland"
-  employer         : "University of St. Gallen"
+  employer         : 
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=D3980IgAAAAJ"
   email            :
