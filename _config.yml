@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @naomihaefner
+  username               : &twitter "naomihaefner"
 #facebook:
 #  username               :
 #  app_id                 :
