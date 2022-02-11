@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Strategy and Management, University of St. Gallen, 2017
+* M.A. in Business Innovation, University of St. Gallen, 2014
+* B.A. in Business Administration, University of St. Gallen, 2012
+* B.A. in Classical Studies with French minor, Middlebury College, 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor of Technology Management
+  * University of St. Gallen
+  * Global Center for Entrepreneurship and Innovation
+  * 2019-present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Researcher and Lecturer in Management
+  * University of St. Gallen
+  * Institute of Technology Management
+  * 2017-2019
+
+* Research Associate
+  * University of St. Gallen
+  * Institute of Technology Management
+  * 2014–2017
+
+* Research Assistant
+   * University of St. Gallen
+   * Institute of Technology Management
+   * 2010–2013
 
 Publications
 ======
@@ -56,4 +58,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of SNSF/Innosuisse BRIDGE Funding Evaluation Committee
+* Reviewer for ZHAW Digitalization Initiative of the Zurich Higher Education Institutions (DIZH)
+* Reviewer for Journal of Management Studies, Technological Forecasting and Social Change
+* Reviewer for the Strategic Management Society and the Academy of Management
