@@ -60,5 +60,5 @@ Service and leadership
 ======
 * Member of Swiss National Science Foundation (SNSF)/Innosuisse BRIDGE Funding Evaluation Committee
 * Reviewer for ZHAW Digitalization Initiative of the Zurich Higher Education Institutions (DIZH)
-* Reviewer for Journal of Management Studies, Technological Forecasting and Social Change
+* Reviewer for Journal of Management Studies, Journal of Business Venturing, Technological Forecasting and Social Change, Technovation
 * Reviewer for the Strategic Management Society and the Academy of Management
