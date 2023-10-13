@@ -6,9 +6,9 @@ excerpt: "Artificial Intelligence (AI) reshapes companies and how innovation man
 date: 2020-10-18
 venue: 'Technological Forecasting and Social Change'
 paperurl: 'https://doi.org/10.1016/j.techfore.2020.120392'
-citation: 'Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). &quot;Artificial intelligence and innovation management: A review, framework, and research agenda.&quot; <i>Technological Forecasting and Social Change</i>, <i>162</i>(1), 120392.'
+citation: 'Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). &quot;Artificial intelligence and innovation management: A review, framework, and research agenda.&quot; <i>Technological Forecasting and Social Change</i>, <i>162</i>, 120392.'
 ---
 
 [Download paper here](https://doi.org/10.1016/j.techfore.2020.120392)
 
-Recommended citation: Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). "Artificial intelligence and innovation management: A review, framework, and research agenda." <i>Technological Forecasting and Social Change</i>, <i>162</i>(1), 120392.
+Recommended citation: Haefner, N., Wincent, J., Parida, V., & Gassmann, O. (2021). "Artificial intelligence and innovation management: A review, framework, and research agenda." <i>Technological Forecasting and Social Change</i>, <i>162</i>, 120392.
