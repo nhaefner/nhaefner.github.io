@@ -6,9 +6,9 @@ excerpt: "Artificial intelligence (AI) will have a substantial impact on firms i
 date: 2023-10-05
 venue: 'Technological Forecasting and Social Change'
 paperurl: 'https://doi.org/10.1016/j.techfore.2020.120392'
-citation: 'Haefner, N., Parida, V., Gassmann, O., & Wincent, J. (2023). &quot;Implementing and scaling artificial intelligence: A review, framework, and research agenda.&quot; <i>Technological Forecasting and Social Change</i>, <i>197</i>(12), 122878.'
+citation: 'Haefner, N., Parida, V., Gassmann, O., & Wincent, J. (2023). &quot;Implementing and scaling artificial intelligence: A review, framework, and research agenda.&quot; <i>Technological Forecasting and Social Change</i>, <i>197</i>, 122878.'
 ---
 
 [Download paper here](https://doi.org/10.1016/j.techfore.2020.120392)
 
-Recommended citation: Haefner, N., Parida, V., Gassmann, O., & Wincent, J. (2023). "Implementing and scaling artificial intelligence: A review, framework, and research agenda." <i>Technological Forecasting and Social Change</i>, <i>197</i>(12), 122878.
+Recommended citation: Haefner, N., Parida, V., Gassmann, O., & Wincent, J. (2023). "Implementing and scaling artificial intelligence: A review, framework, and research agenda." <i>Technological Forecasting and Social Change</i>, <i>197</i>, 122878.
