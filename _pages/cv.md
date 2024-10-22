@@ -65,6 +65,6 @@ Service and leadership
 
 Languages
 ======
-English - native
-German - native
-French - excellent
+* English - native
+* German - native
+* French - excellent
