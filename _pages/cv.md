@@ -62,3 +62,9 @@ Service and leadership
 * Reviewer for ZHAW Digitalization Initiative of the Zurich Higher Education Institutions (DIZH)
 * Reviewer for Journal of Management Studies, Journal of Business Venturing, Entrepreneurship Theory and Practice, Research Policy, California Management Review, Journal of Business Research, Technological Forecasting and Social Change, Technovation
 * Reviewer for the Strategic Management Society and the Academy of Management
+
+Languages
+======
+English - native
+German - native
+French - excellent
