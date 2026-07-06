@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Naomi Haefner"
   avatar           : "profile.png"
-  bio              : "Professor of Artificial Intelligence and Innovation"
+  bio              : "Professor of AI and Innovation at IMD"
   location         : "Switzerland"
-  employer         : "IMD"
+  employer         : 
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=D3980IgAAAAJ"
   email            :
