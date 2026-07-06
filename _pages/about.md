@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Technology Management at the University of St. Gallen. I am affiliated with the [Global Center for Entrepreneurship and Innovation (GCEI-HSG)](https://gcei.unisg.ch/) and the [Institute of Technology Management (ITEM-HSG)](http://item.unisg.ch) at the [University of St. Gallen](http://www.unisg.ch).
+I am a Full Professor of Artificial Intelligence and Innovation at the [International Institute for Management Development (IMD)](https://www.imd.org/) in Lausanne, Switzerland. Prior to joining IMD I was an Assistant Professor of Technology Management at the University of St. Gallen where I led the **Emerging Technologies Lab** at the Institute of Technology Management and was affiliated with the Global Center for Entrepreneurship and Innovation.
 
-I lead the **Emerging Technologies Lab** at the Institute of Technology Management at the University of St. Gallen. Our focus is on examining and assessing new technologies, especially artificial intelligence and machine learning, with a particular emphasis on their impact on innovation, strategic decision-making, the new venture creation process, business models, and business opportunities.
+My research focuses on how artificial intelligence is reshaping innovation strategy, organizational design, and leadership decision-making. I study how organizations can adopt and govern emerging technologies to create strategic value and navigate technological change.
