@@ -18,10 +18,14 @@ Education
 
 Work experience
 ======
+* Professor of Artificial Intelligence and Innovation
+  * International Institute for Management Development (IMD)
+  * 2026-present
+    
 * Assistant Professor of Technology Management
   * University of St. Gallen
   * Global Center for Entrepreneurship and Innovation
-  * 2019-present
+  * 2019-2025
 
 * Postdoctoral Researcher and Lecturer in Management
   * University of St. Gallen
